@@ -1,0 +1,7 @@
+{
+  "name": "Sony Bravia Desktop",
+  "description": "Transform your Sony Bravia Android TV into a full desktop workstation with external mouse and keyboard support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
